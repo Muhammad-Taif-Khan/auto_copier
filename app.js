@@ -1,5 +1,5 @@
-const DOWNLOAD_DIR = 'c:\\Users\\DELL Latitude 7420\\Downloads';
-const DEST_DIR = 'D:\\temp_data';
+const DOWNLOAD_DIR = 'PASTE_YOUR_DOWNLOAD_DIR_PATH_HERE';
+const DEST_DIR = 'PASTE_DESTINATION_DIR_PATH';
 const fs = require('fs');
 const path = require('path');
 let alreadyExistsFiles = [];
